@@ -1,6 +1,6 @@
 # Pinging
 
-![Pinging Logo](public/main-logo.svg)
+<img src="public/main-logo.svg" alt="Pinging Logo" width="500" />
 
 Pinging is a comprehensive monitoring tool designed to help you track and supervise various types of endpoints including websites, TCP sockets, DNS records, and more. With real-time alerts and detailed analytics, Pinging makes sure you're always informed about the status of your critical services.
 
